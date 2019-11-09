@@ -1,3 +1,2 @@
 # Hello-World
-Hello World test
-This is an added text.
+Hello World test, creating a repository.
